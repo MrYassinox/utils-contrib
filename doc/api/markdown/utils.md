@@ -20,7 +20,7 @@ Utils a contrib toolkits for devlops.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L453"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L454"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `get_current_py_version`
 
@@ -51,7 +51,7 @@ Get the current Python version number info.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L481"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L482"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `get_py_versions_available`
 
@@ -64,7 +64,7 @@ Gets all Python versions available on the system.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L486"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L487"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `setup_temp`
 
@@ -91,7 +91,7 @@ Initialize a temporary folder path.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L502"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L503"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `create_directory`
 
@@ -129,7 +129,7 @@ Create a directory.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L528"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L529"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `clear`
 
@@ -148,7 +148,7 @@ Clear the screen.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L544"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L545"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `remove_files_older`
 
@@ -195,7 +195,7 @@ Remove files that are older than specified days.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L598"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L599"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `get_pkg_distribution`
 
@@ -233,7 +233,7 @@ Get the distribution information for a package.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L622"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L623"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `os_environ_list`
 
@@ -252,7 +252,7 @@ Return a list of environment variables.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L635"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L636"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `os_environ_set`
 
@@ -291,7 +291,7 @@ Set an environment variable locally.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L659"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L660"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `os_environ_get`
 
@@ -331,7 +331,7 @@ Get the value of an environment variable.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L682"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L683"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `module_exists`
 
@@ -383,7 +383,7 @@ Check if a module exists.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L720"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L721"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `run_shell_command`
 
@@ -418,7 +418,7 @@ Run a shell command python and capture the output.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L760"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L761"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `sub_run`
 
@@ -477,7 +477,7 @@ Run a subprocess command and capture the output.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L809"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L810"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `check_run`
 
@@ -508,7 +508,7 @@ Check if a command runs successfully.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L829"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L830"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `run_python`
 
@@ -550,7 +550,7 @@ Run a Python command and capture the output.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L858"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L859"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `sub_gitclone`
 
@@ -602,7 +602,7 @@ Clone a Git repository from a given URL.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L909"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L910"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `repositories`
 
@@ -645,7 +645,7 @@ Manage repositories.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L971"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L972"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `sub_gitinstall`
 
@@ -684,7 +684,7 @@ Install a Git module.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L996"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L997"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `sub_wget`
 
@@ -724,7 +724,7 @@ Download a file using wget.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1022"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1023"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `wget`
 
@@ -758,7 +758,7 @@ Download a file using wget.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1064"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1065"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `requests_get`
 
@@ -813,7 +813,7 @@ Download a file using requests.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1123"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1124"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `get_file_size`
 
@@ -848,7 +848,7 @@ Get the file size in bytes and convert it to bytes, KB, MB, GB, or TB.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1154"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1155"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `check_file_size`
 
@@ -885,7 +885,7 @@ Check if the file size is less than or equal to the allowed size.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1217"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1218"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `store_metadata_png`
 
@@ -943,7 +943,7 @@ Store metadata in a PNG image.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1288"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1289"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `search_str`
 
@@ -1000,7 +1000,7 @@ This function searches for a specific word in a file. It opens the file specifie
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1336"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1337"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `search_str_by_line`
 
@@ -1054,7 +1054,7 @@ Search for a word in each line of a file and print the line and line number if f
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1383"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1384"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `search_and_replace`
 
@@ -1109,7 +1109,7 @@ Search for a word in a file and optionally replace it with a new word.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1435"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1436"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `threading_manager_functions`
 
@@ -1177,7 +1177,7 @@ Manage threading operations by creating and returning either a Thread or a Timer
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1493"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1494"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `search_scanne_folder`
 
@@ -1232,7 +1232,7 @@ Scan a folder and return the list of files and other relevant information.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1552"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1553"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `get_data_from_csv_xlsx`
 
@@ -1291,7 +1291,7 @@ Get data from a CSV or XLSX file and return it as a list.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1617"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1618"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `edit_file_txt`
 
@@ -1369,7 +1369,7 @@ Edit a text file by adding, replacing, or removing content.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1752"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1753"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `store_img_binary`
 
@@ -1429,7 +1429,7 @@ Store images in binary PIL mode.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1819"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1820"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `temporary_file`
 
@@ -1497,7 +1497,7 @@ Create a temporary file and write the bytes data to it.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1873"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1874"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `search_and_edite_module`
 
@@ -1557,7 +1557,7 @@ Searches for a specified content in a module file and replaces it with new conte
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1980"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L1981"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `encode_file_bytes`
 
@@ -1625,7 +1625,7 @@ Encode a file into base64 and optionally write the encoded data to a file.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2107"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2108"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `decode_file_bytes`
 
@@ -1671,7 +1671,7 @@ Decode a file encoded with base64.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2141"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2142"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `detect_variable`
 
@@ -1706,7 +1706,7 @@ Detect if the given argument is a function.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2165"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2166"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `measuring_average_color_lightness`
 
@@ -1762,7 +1762,7 @@ Measure the average color lightness based on different methods.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2234"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2235"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `wrapper_decorator_timetask`
 
@@ -1820,7 +1820,7 @@ Decorator function to measure the execution time of a given function.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L2297"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L2298"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `wrapper_decorator`
 
@@ -1844,7 +1844,7 @@ Decorator sample.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2316"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2317"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `wrapper_decorator_threaded`
 
@@ -1893,7 +1893,7 @@ Decorator to create threaded functions.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2372"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2373"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `platform_system_detect`
 
@@ -1926,7 +1926,7 @@ Detects the current platform or operating system.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2404"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2405"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `split_file_path`
 
@@ -1967,7 +1967,7 @@ Splits a file path into its directory name, base name, and extension.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2434"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2435"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `get_h_w_c_to_image`
 
@@ -2018,7 +2018,7 @@ Returns the height, width, and number of channels of an image.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L2473"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L2474"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `get_opencv_formats`
 
@@ -2046,7 +2046,7 @@ Returns a list of available image file formats supported by OpenCV.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L2518"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L2519"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `get_pillow_formats`
 
@@ -2074,7 +2074,7 @@ Returns a list of available image file formats supported by Pillow.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2575"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2576"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `read_with_opencv`
 
@@ -2121,7 +2121,7 @@ Reads an image from the specified file path using OpenCV and returns it as a Num
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2629"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2630"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `read_with_pillow`
 
@@ -2167,7 +2167,7 @@ Reads an image from the specified file path using Pillow and returns it as a Num
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2667"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2668"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `read_pillow_from_array`
 
@@ -2214,7 +2214,7 @@ Creates a Pillow image object from the specified NumPy array.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2696"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2697"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `convert_pillow_to_numpy`
 
@@ -2263,7 +2263,7 @@ Converts a Pillow image object to a NumPy array.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2731"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2732"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `convert_pillow_to_cv2`
 
@@ -2309,7 +2309,7 @@ Converts an image from Pillow to OpenCV.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2771"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2772"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `convert_cv2_to_pillow`
 
@@ -2354,7 +2354,7 @@ Converts an image from OpenCV to Pillow.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2810"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2811"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `import_from`
 
@@ -2397,7 +2397,7 @@ Imports module from a file path. and returns an object from a specified module.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2839"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2840"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `import_lib`
 
@@ -2444,7 +2444,7 @@ Imports a module from a file path.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2877"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2878"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `retrieves_modules_from_dir`
 
@@ -2499,7 +2499,7 @@ Retrieves classes and/or functions from modules in a directory.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2998"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L2999"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `retrieves_image_from_dir`
 
@@ -2550,7 +2550,7 @@ Retrieves image names or paths from a directory.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L3057"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L3058"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `safe_exception_execute`
 
@@ -2605,7 +2605,7 @@ Executes a target function or action safely, catching specified exceptions and r
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L3113"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L3114"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `get_list_parameter_names_from_fun`
 
@@ -2669,7 +2669,7 @@ Retrieves a list of parameter names from a Python function, method, or class.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L3163"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L3164"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `checked_instances`
 
@@ -2769,7 +2769,7 @@ Checks the type of the provided object against the specified type checker.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3265"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3266"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `strTobool`
 
@@ -2814,7 +2814,7 @@ Convert a string representation to an actual boolean value.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L3298"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L3299"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `create_archive_tar_gz`
 
@@ -2880,7 +2880,7 @@ Create a tar.gz archive containing specified files and directories.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L3374"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\.environment\lib\site-packages\loguru\_logger.py#L3375"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `check_signature_object`
 
@@ -2930,7 +2930,7 @@ introspect function parameters.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3414"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3415"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `check_string_match_pattern`
 
@@ -2974,7 +2974,7 @@ Check if the characters in the string match the pattern.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3446"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3447"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `get_string_before_pattern`
 
@@ -3010,7 +3010,7 @@ Get the string before the specified character pattern in the string.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3473"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3474"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>function</kbd> `time_sleep_accuracy`
 
@@ -3045,12 +3045,105 @@ The time sleep duration with higher accuracy.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L120"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3511"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+
+## <kbd>function</kbd> `check_is_matching_pattern`
+
+```python
+check_is_matching_pattern(
+    sequence_string: str,
+    pattern: Union[str, List],
+    operator: Literal['search', 'findall'] = 'search'
+)
+```
+
+Check if any of the patterns match the characters or strings. 
+
+
+
+**Args:**
+ 
+ - <b>``sequence_string` (str)`</b>:  The input string to be to check for matches. 
+ - <b>``pattern` (Union[str, List])`</b>:  The pattern to match or a list of regular expression patterns to   match has an 'r' prefix (indicating it is a raw string). 
+ - <b>``operator` (Literal["search", "findall"])`</b>:  The check operator the way to check matching   if use `"search"` returns boolen for first result, or use `"findall"` to returns list for an found all result. 
+
+
+
+**Returns:**
+ 
+ - <b>`(bool | list | None)`</b>:  if use "search" returns boolen, or use "findall" to returns list 
+
+
+
+**Example:**
+ ```python
+
+    # DESC => You can use list patterns with has an 'r' prefix (indicating it is a raw string).
+    patterns = [r"\d+", r"[a-z]+"] # DESC => This list contains two patterns: digits and lowercase letters.
+    input_string = "abc123xyz"
+
+    if check_is_matching_pattern(input_string, patterns):
+         print("Pattern matched in the input string.")
+    else:
+         print("No match found in the input string.")
+
+    # DESC => You can use a list patterns in string with has an 'r' prefix (indicating it is a raw string).
+    patterns = r"\d+|[a-z]+"
+    input_string = "abc123xyz"
+
+    if check_is_matching_pattern(input_string, patterns):
+         print("Pattern matched in the input string.")
+    else:
+         print("No match found in the input string.")
+
+    # DESC => You can use patterns a string with has an 'r' prefix (indicating it is a raw string).
+    patterns = r"quick.*fox"
+    input_string = "The quick brown fox jumps over the lazy dog."
+    
+    if check_is_matching_pattern(input_string, patterns):
+         print("Pattern matched in the input string.")
+    else:
+         print("No match found in the input string.")
+
+    # DESC => You can use patterns a string without has an 'r' prefix (indicating it is a raw string).
+    patterns = "hello"
+    input_string = "Hello, world!"
+    
+    if check_is_matching_pattern(input_string, patterns):
+         print("Pattern matched in the input string.")
+    else:
+         print("No match found in the input string.")
+
+    # DESC => You can use operator "findall" with patterns a string without has an 'r' prefix (indicating it is a raw string).
+    patterns = "hello"
+    input_string = "Hello, world!"
+    
+    check = check_is_matching_pattern(input_string, patterns, operator="findall")
+    if check:
+         print(check) # output => ["hello"]
+    else:
+         print(check)
+
+    # DESC => ou can use operator "findall" with patterns a string has an 'r' prefix (indicating it is a raw string).
+    patterns = r"name|hi"
+    input_string = "Hello, world!"
+    
+    check = check_is_matching_pattern(input_string, patterns, operator="findall")
+    if check:
+         print(check)
+    else:
+         print(check) # output => []
+``` 
+
+
+---
+
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L121"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>class</kbd> `LoggerHandle`
 LoggerHandle functionality and exception handling in applications. 
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L122"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L123"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `__init__`
 
@@ -3087,7 +3180,7 @@ LoggerHandle functionality and exception handling in applications.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L168"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L169"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `catch`
 
@@ -3096,7 +3189,7 @@ catch(
     exception: Optional[Tuple[BaseException]] = <class 'Exception'>,
     level: Union[str, int] = 'ERROR',
     reraise: Optional[bool] = False,
-    onerror: Optional[<built-in function callable>] = <function LoggerHandle.<lambda> at 0x00000135A1D05550>,
+    onerror: Optional[<built-in function callable>] = <function LoggerHandle.<lambda> at 0x00000233CD1265E0>,
     exclude: Optional[BaseException, Tuple[BaseException]] = (),
     default: Optional[str] = None,
     message: Optional[str] = "An error has been caught in function '{record[function]}', process '{record[process].name}' ({record[process].id}), thread '{record[thread].name}' ({record[thread].id}):"
@@ -3137,7 +3230,7 @@ Catch an exception and log it with the 'exception' level.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L396"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L397"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `critical`
 
@@ -3175,7 +3268,7 @@ Log a message with the 'CRITICAL' level.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L266"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L267"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `debug`
 
@@ -3213,7 +3306,7 @@ Log a message with the 'DEBUG' level.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L370"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L371"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `error`
 
@@ -3251,7 +3344,7 @@ Log a message with the 'ERROR' level.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L423"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L424"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `exception`
 
@@ -3289,7 +3382,7 @@ Log a message with the 'CRITICAL' level.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L292"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L293"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `info`
 
@@ -3327,7 +3420,7 @@ Log a message with the 'INFO' level.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L209"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L210"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `log`
 
@@ -3366,7 +3459,7 @@ Log a message with the specified level.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L318"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L319"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `success`
 
@@ -3404,7 +3497,7 @@ Log a message with the 'INFO' level.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L240"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L241"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `trace`
 
@@ -3442,7 +3535,7 @@ Log a message with the 'TRACE' level.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L344"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L345"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `warning`
 
@@ -3481,12 +3574,12 @@ Log a message with the 'WARNING' level.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3512"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3611"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>class</kbd> `TaskTimer`
 Task Execution Timer.  
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3514"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3613"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `__init__`
 
@@ -3501,7 +3594,7 @@ Initialize the TaskTimer object.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3529"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3628"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `end_time`
 
@@ -3513,7 +3606,7 @@ End the timer for task execution.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3535"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3634"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `finishe`
 
@@ -3560,7 +3653,7 @@ Calculate and return the task execution time.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3523"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3622"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `start_time`
 
@@ -3573,12 +3666,12 @@ Start the timer for task execution.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3575"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3674"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>class</kbd> `Threaded`
 Threaded  
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3577"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3676"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `__init__`
 
@@ -3666,7 +3759,7 @@ This is a non-negative integer. See the get_native_id() function. This represent
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3662"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3761"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `get_results`
 
@@ -3694,7 +3787,7 @@ Get the results of the thread execution.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3616"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3715"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `join`
 
@@ -3706,7 +3799,7 @@ Wait for the thread to complete.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3610"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3709"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `run`
 
@@ -3718,7 +3811,7 @@ Run the thread and execute the target function.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3620"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3719"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `status`
 
@@ -3747,7 +3840,7 @@ Check the status of the thread.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3642"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3741"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `stop`
 
@@ -3759,7 +3852,7 @@ Set the stop event to stop the thread.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3646"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3745"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `stopped`
 
@@ -3788,12 +3881,12 @@ Check if the thread has stopped.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3681"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3780"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>class</kbd> `ColorsConstants`
 Provide RGB color constants and a colors dictionary with elements formatted.  
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3683"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3782"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `__init__`
 
@@ -3830,7 +3923,7 @@ Initialize the ColorsConstants object.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L4844"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L4943"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `colors_hex`
 
@@ -3857,7 +3950,7 @@ Return a dictionary of color variables in hexadecimal format.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L5417"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L5516"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `colors_rgb`
 
@@ -3884,7 +3977,7 @@ Return a dictionary of color variables in RGB format.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L5990"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6089"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `colors_rgb_name`
 
@@ -3911,7 +4004,7 @@ Return a dictionary of color variables in RGB format with color names as keys.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3704"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L3803"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `keys_hex`
 
@@ -3938,7 +4031,7 @@ Return of color constants variables in hexadecimal format.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L4274"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L4373"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `keys_rgb`
 
@@ -3966,12 +4059,12 @@ Return of color constants variables in RGB format.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6599"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6698"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>class</kbd> `ColorsConvartor`
 Color converter class for different color formats. 
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6601"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6700"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `__init__`
 
@@ -3988,7 +4081,7 @@ Initialize the ColorsConvartor object.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6606"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6705"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `cmyk_to_rgb`
 
@@ -4029,7 +4122,7 @@ Convert CMYK color to RGB format.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6686"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6785"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `hex_to_rgb`
 
@@ -4062,7 +4155,7 @@ Convert hexadecimal color to RGB format.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6727"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6826"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `hls_to_rgb`
 
@@ -4097,7 +4190,7 @@ Convert HLS color to RGB format.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6633"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6732"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `rgb_to_cmyk`
 
@@ -4132,7 +4225,7 @@ Convert RGB color to CMYK format.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6666"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6765"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `rgb_to_hex`
 
@@ -4167,7 +4260,7 @@ Convert RGB color to hexadecimal format.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6706"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6805"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `rgb_to_hls`
 
@@ -4203,12 +4296,12 @@ Convert RGB color to HLS format.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6748"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6847"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>class</kbd> `Image_ColorAverageDominant`
 Extract color average and dominant 
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6750"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6849"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `__init__`
 
@@ -4235,7 +4328,7 @@ Initialize the Image_ColorAverageDominant object.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6763"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6862"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `extract_average_colore`
 
@@ -4276,7 +4369,7 @@ Extract the average color from an image.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6800"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6899"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `extract_dominant_colore`
 
@@ -4329,12 +4422,12 @@ Extract the dominant colors from an image.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6880"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6979"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>class</kbd> `AutoCorrection_WhiteBalance`
 Auto white balance correction opencv. 
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6882"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6981"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `__init__`
 
@@ -4361,7 +4454,7 @@ Initialize AutoCorrection_WhiteBalance the object.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6988"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7087"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `gimp`
 
@@ -4410,7 +4503,7 @@ Perform white balance correction on an image using various algorithms.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6895"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6994"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `gray_world`
 
@@ -4432,7 +4525,7 @@ Apply gray world algorithm for white balance correction
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6910"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7009"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `max_white`
 
@@ -4455,7 +4548,7 @@ Apply max white algorithm for white balance correction
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6934"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7033"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `retinex`
 
@@ -4477,7 +4570,7 @@ Apply retinex algorithm for white balance correction
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6949"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7048"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `retinex_adjust`
 
@@ -4499,7 +4592,7 @@ Apply retinex adjustment after retinex algorithm for white balance correction
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L6977"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7076"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `retinex_with_adjust`
 
@@ -4522,12 +4615,12 @@ Apply retinex algorithm followed by retinex adjustment for white balance correct
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7071"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7170"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>class</kbd> `AutoColorMatch`
 Automated color matching using histogram matching. 
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7073"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7172"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `__init__`
 
@@ -4552,7 +4645,7 @@ Initialize the AutoColorMatch object.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7085"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7184"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `color_match`
 
@@ -4605,7 +4698,7 @@ Perform color matching on an image using histogram matching.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7149"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7248"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `color_match_transfer`
 
@@ -4663,7 +4756,7 @@ Transfers the color distribution from the source to the target image using the m
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7344"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7443"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `matplotlib_visualize`
 
@@ -4698,7 +4791,7 @@ Displays two images side by side using Matplotlib.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7327"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7426"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `opencv_visualize`
 
@@ -4723,7 +4816,7 @@ Displays an image using OpenCV.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7388"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7487"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `resize_constant`
 
@@ -4749,12 +4842,12 @@ Resizes an image to a constant width while maintaining the aspect ratio.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7403"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7502"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>class</kbd> `Promise`
 A simplified implementation of promises in Python. 
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7405"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7504"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `__init__`
 
@@ -4794,7 +4887,7 @@ Initializes a new Promise object.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7498"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7597"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `catch`
 
@@ -4825,7 +4918,7 @@ Attaches a callback function to the promise for rejection.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7522"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7621"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `executor`
 
@@ -4850,7 +4943,7 @@ Creates a new promise using an executor function.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7474"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7573"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `then`
 
@@ -4882,7 +4975,7 @@ Attaches a callback function to the promise for fulfillment.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7545"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7644"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>class</kbd> `ExceptionsBase`
 Class that defines variables for built-in exceptions derived from BaseException. 
@@ -4911,12 +5004,12 @@ Class that defines variables for built-in exceptions derived from BaseException.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7779"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7878"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>class</kbd> `Argparse`
 Argparse - Extended Argument Parser for Command-Line Argument Handling.  
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7781"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7880"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `__init__`
 
@@ -4990,7 +5083,7 @@ Initialize the Argparse object.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7852"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7951"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `add_args`
 
@@ -5054,7 +5147,7 @@ Add command-line arguments to the argument group.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7945"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8044"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `get_args_dictionary`
 
@@ -5072,7 +5165,7 @@ Parse the command-line arguments and return a dictionary.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7935"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8034"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `get_args_namespace`
 
@@ -5091,12 +5184,12 @@ Parse the command-line arguments and return the namespace.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7955"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8054"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>class</kbd> `EventsSignature`
 EventsSignature class. 
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7957"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8056"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `__init__`
 
@@ -5142,7 +5235,7 @@ Methods:  `setattribute(attribute_name: str, value: Any)`:   Sets the named attr
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8011"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8110"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `getattribute`
 
@@ -5166,7 +5259,7 @@ Get a named attribute from object.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L7998"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8097"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `setattribute`
 
@@ -5190,7 +5283,7 @@ Sets the named attribute of the object to the specified value.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8023"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8122"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `signature_obj_and_init_callback`
 
@@ -5210,12 +5303,12 @@ Signature of callback the object function and init event.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8044"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8143"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>class</kbd> `AxisCalc`
 Calculate the top, bottom, right, and left coordinates of an object based on its axis. 
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8046"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8145"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `__init__`
 
@@ -5246,7 +5339,7 @@ Methods: `calculate_top_bottom_right_left_of_local_global()`:   Calculate the to
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8094"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8193"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `calculate_top_bottom_right_left_of_global`
 
@@ -5267,7 +5360,7 @@ Calculate the top, bottom, right, and left of an object given its global coordin
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8113"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8212"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `calculate_top_bottom_right_left_of_local`
 
@@ -5288,7 +5381,7 @@ Calculate the top, bottom, right, and left of an object given its local coordina
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8074"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8173"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `calculate_top_bottom_right_left_of_local_global`
 
@@ -5310,12 +5403,12 @@ Calculate the top, bottom, right, and left of an object given its local and glob
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8132"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8231"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>class</kbd> `GenerateID`
 A class to generate a unique id 
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8134"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8233"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `__init__`
 
@@ -5360,7 +5453,7 @@ Methods:  `generate_random_id()`: Generate a unique id random.  `generate_md5_id
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8216"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8315"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `check_name_md5`
 
@@ -5385,7 +5478,7 @@ Check id of uuid version 3 the MD5 hash it match name.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8235"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8334"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `check_name_sha1`
 
@@ -5410,7 +5503,7 @@ Check id of uuid version 5 the SHA-1 hash it match name.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8192"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8291"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `generate_md5_id`
 
@@ -5433,7 +5526,7 @@ Generate a unique id of MD5 hash namespace.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8172"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8271"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `generate_random_id`
 
@@ -5460,7 +5553,7 @@ Generate a unique id random.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8204"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8303"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `generate_sha1_id`
 
@@ -5484,7 +5577,7 @@ Generate a unique id of SHA-1 hash namespace.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8254"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8353"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>class</kbd> `AttrRegisterMap`
 A class AttrRegisterMap the attributes register and manages map. 
@@ -5513,7 +5606,7 @@ Methods:  `setattribute`(attribute_name: str, value: Any, attribute_update: bool
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8323"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8422"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `getattribute`
 
@@ -5537,7 +5630,7 @@ Get a named attribute from object.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8278"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8377"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `setattribute`
 

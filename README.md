@@ -10,7 +10,7 @@
 
 </div>
 
-**squardot-utils-contrib**: is a Python library that provides a collection of full utility functions and modules for various tasks of develop.
+**portdev-utils-contrib**: is a Python library that provides a collection of full utility functions and modules for various tasks of develop.
 
 ## Features:
 - File operations (directory creation, file removal, file search and replace, etc.)
@@ -39,7 +39,7 @@ pip install https://github.com/MrYassinox/utils-contrib/archive/main.zip
 > Cloning repository with `git clone` go to into your project directory where to clone repository.
 ```python
 git clone https://github.com/MrYassinox/utils-contrib.git
-pip install -e .  # go to inside project repository directory and run this command.
+pip install -e . # go to inside project repository directory and run this command.
 ```
 
 # Platform used info
