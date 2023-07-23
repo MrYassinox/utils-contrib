@@ -1,6 +1,6 @@
 <div align="center">
 
-# Project Card
+# utils contrib
 [![GitHub license](https://img.shields.io/github/license/MrYassinox/utils-contrib?color=blue)](./LICENSE)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/MrYassinox/utils-contrib/main?color=success&style=flat)
 ![GitHub Latest Release](https://img.shields.io/github/v/release/MrYassinox/utils-contrib)
@@ -8,9 +8,9 @@
 
 [Features](#features) - [Installation](#installation) - [Documentation](#documentation) - [Credits](#credits) - [License](#license)
 
-</div>
+**utils-contrib**: is a Python library that provides a collection of full utility functions and modules for various tasks of develop.
 
-**portdev-utils-contrib**: is a Python library that provides a collection of full utility functions and modules for various tasks of develop.
+</div>
 
 ## Features:
 - File operations (directory creation, file removal, file search and replace, etc.)
@@ -26,33 +26,33 @@
 
 > Python, library, utility functions, file operations, system information, image processing, data handling, module management, exception handling, timer, colors manipulation, image analysis, web requests
 
-# Installation
-## Using
+## Installation
+### Using
 > Create and activate a Python virtual environment.
-```python
+```toml
 pip install -e git+https://github.com/MrYassinox/utils-contrib.git@main
 # or
 pip install https://github.com/MrYassinox/utils-contrib/archive/main.zip
+# or
+pip install https://git+github.com/MrYassinox/utils-contrib.git@<branch_name or hash or version or tag>
 ```
 
-## Using as a devlope
+### Using as a devlope
 > Cloning repository with `git clone` go to into your project directory where to clone repository.
-```python
+```toml
 git clone https://github.com/MrYassinox/utils-contrib.git
 pip install -e . # go to inside project repository directory and run this command.
 ```
 
-# Platform used info
-![python version](https://img.shields.io/static/v1?label=python&message=^3.9&color=yellowgreen&style=flat)
+## Platform used info
+- Scripting __Language__ : ``python``
+  - Python version : ``^3.8``
 
-- Scripting __Frameworks__ : ``python``
-  - Python version : ``^3.9``
-
-# Documentation
+## Documentation
 The documentation available here: [documentation](./doc/api/)
 <!-- The documentation has not available currently. -->
 
-# Credits
+## Credits
 
-# License
+## License
 Code released under the MIT license. see [license](./LICENSE) for further details.

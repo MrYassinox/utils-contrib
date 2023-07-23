@@ -2,8 +2,8 @@
 
 # => DESC | python
 **/__pycache__/
-/utils_contrib/**/__pycache__/
-portdev_utils_contrib.egg-info
+/**/**/__pycache__/
+**.egg-info
 
 # => DESC | visual code
 .vscode
