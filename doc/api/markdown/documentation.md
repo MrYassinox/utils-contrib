@@ -13,12 +13,13 @@
 - [`utils.AutoColorMatch`](./utils.md#class-autocolormatch): Automated color matching using histogram matching.
 - [`utils.AutoCorrection_WhiteBalance`](./utils.md#class-autocorrection_whitebalance): Auto white balance correction opencv.
 - [`utils.AxisCalc`](./utils.md#class-axiscalc): Calculate the top, bottom, right, and left coordinates of an object based on its axis.
+- [`utils.ColorMaterialUi`](./utils.md#class-colormaterialui): A class ColorMaterialUi - The Material UI color names to hex values.
 - [`utils.ColorsConstants`](./utils.md#class-colorsconstants): Provide RGB color constants and a colors dictionary with elements formatted. 
 - [`utils.ColorsConvartor`](./utils.md#class-colorsconvartor): Color converter class for different color formats.
-- [`utils.EventsSignature`](./utils.md#class-eventssignature): EventsSignature class.
 - [`utils.ExceptionsBase`](./utils.md#class-exceptionsbase): Class that defines variables for built-in exceptions derived from BaseException.
 - [`utils.GenerateID`](./utils.md#class-generateid): A class to generate a unique id
 - [`utils.Image_ColorAverageDominant`](./utils.md#class-image_coloraveragedominant): Extract color average and dominant
+- [`utils.KwargsSignature`](./utils.md#class-kwargssignature): A class KwargsSignature the signature provides to keyword, for allows access to keyword by a attributes.
 - [`utils.LoggerHandle`](./utils.md#class-loggerhandle): LoggerHandle functionality and exception handling in applications.
 - [`utils.Promise`](./utils.md#class-promise): A simplified implementation of promises in Python.
 - [`utils.TaskTimer`](./utils.md#class-tasktimer): Task Execution Timer. 

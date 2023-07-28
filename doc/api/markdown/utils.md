@@ -3189,7 +3189,7 @@ catch(
     exception: Optional[Tuple[BaseException]] = <class 'Exception'>,
     level: Union[str, int] = 'ERROR',
     reraise: Optional[bool] = False,
-    onerror: Optional[<built-in function callable>] = <function LoggerHandle.<lambda> at 0x00000233CD1265E0>,
+    onerror: Optional[<built-in function callable>] = <function LoggerHandle.<lambda> at 0x000002AAFC2E1550>,
     exclude: Optional[BaseException, Tuple[BaseException]] = (),
     default: Optional[str] = None,
     message: Optional[str] = "An error has been caught in function '{record[function]}', process '{record[process].name}' ({record[process].id}), thread '{record[thread].name}' ({record[thread].id}):"
@@ -5186,129 +5186,10 @@ Parse the command-line arguments and return the namespace.
 
 <a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8054"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
-## <kbd>class</kbd> `EventsSignature`
-EventsSignature class. 
-
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8056"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
-
-### <kbd>method</kbd> `__init__`
-
-```python
-__init__()
-```
-
-Initialize the EventsSignature object. 
-
-The EventsSignature class is used to set and get attributes, and signature the callback object function and init event. 
-
-Methods:  `setattribute(attribute_name: str, value: Any)`:   Sets the named attribute of the object to the specified value.  `getattribute(attribute_name: str)`:   Get a named attribute from object.  `signature_obj_and_init_callback(callback: Callable, init_event: Any = None)`:   Signature of callback the object function and init event. 
-
-
-
-**Example:**
- ```python
-     >>> EVENTS = EventsSignature()
-     >>> EVENTS.setattribute("init", None)
-     >>> print(EVENTS.getattribute("init"))
-     # Output.
-     # None
-
-     >>> EVENTS.setattribute("index", 100)
-     >>> print(EVENTS.getattribute("index"))
-     # Output.
-     # 100
-
-     >>> EVENTS.setattribute("name", "flet")
-     >>> print(EVENTS.name))
-     # Output.
-     # flet
-
-     >>> expression = lambda e: print(e.data)
-     >>> EVENTS.setattribute("data", "flet")
-     >>> EVENTS.signature_obj_and_init_callback(expression, init_event=EVENTS)
-     # Output.
-     # flet
-``` 
-
-
-
-
----
-
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8110"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
-
-### <kbd>method</kbd> `getattribute`
-
-```python
-getattribute(attribute_name: str)
-```
-
-Get a named attribute from object. 
-
-
-
-**Args:**
- 
- - <b>``attribute_name` (str)`</b>:  The name of the attribute. 
-
-
-
-**Returns:**
- 
- - <b>`value`</b>:  the value of attribute. 
-
----
-
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8097"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
-
-### <kbd>method</kbd> `setattribute`
-
-```python
-setattribute(attribute_name: str, value: Any)
-```
-
-Sets the named attribute of the object to the specified value. 
-
-
-
-**Args:**
- 
- - <b>``attribute_name` (str)`</b>:  The name of the attribute. 
- - <b>``value` (Any)`</b>:  The value of the attribute. 
-
-
-
-**Returns:**
- None 
-
----
-
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8122"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
-
-### <kbd>method</kbd> `signature_obj_and_init_callback`
-
-```python
-signature_obj_and_init_callback(callback: Callable, init_event: Any = None)
-```
-
-Signature of callback the object function and init event. 
-
-
-
-**Args:**
- 
- - <b>``callback` (Callable)`</b>:  The represent any callable object, such as a function,  a method, or a lambda expression. 
- - <b>``event` (Any, EventsSignature)`</b>:  The send Events data to callback object. Defaults to None. 
-
-
----
-
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8143"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
-
 ## <kbd>class</kbd> `AxisCalc`
 Calculate the top, bottom, right, and left coordinates of an object based on its axis. 
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8145"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8056"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `__init__`
 
@@ -5339,7 +5220,7 @@ Methods: `calculate_top_bottom_right_left_of_local_global()`:   Calculate the to
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8193"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8104"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `calculate_top_bottom_right_left_of_global`
 
@@ -5360,7 +5241,7 @@ Calculate the top, bottom, right, and left of an object given its global coordin
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8212"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8123"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `calculate_top_bottom_right_left_of_local`
 
@@ -5381,7 +5262,7 @@ Calculate the top, bottom, right, and left of an object given its local coordina
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8173"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8084"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `calculate_top_bottom_right_left_of_local_global`
 
@@ -5403,12 +5284,12 @@ Calculate the top, bottom, right, and left of an object given its local and glob
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8231"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8142"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>class</kbd> `GenerateID`
 A class to generate a unique id 
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8233"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8144"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `__init__`
 
@@ -5453,7 +5334,7 @@ Methods:  `generate_random_id()`: Generate a unique id random.  `generate_md5_id
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8315"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8226"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `check_name_md5`
 
@@ -5478,7 +5359,7 @@ Check id of uuid version 3 the MD5 hash it match name.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8334"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8245"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `check_name_sha1`
 
@@ -5503,7 +5384,7 @@ Check id of uuid version 5 the SHA-1 hash it match name.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8291"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8202"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `generate_md5_id`
 
@@ -5526,7 +5407,7 @@ Generate a unique id of MD5 hash namespace.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8271"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8182"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `generate_random_id`
 
@@ -5553,7 +5434,7 @@ Generate a unique id random.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8303"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8214"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `generate_sha1_id`
 
@@ -5577,7 +5458,7 @@ Generate a unique id of SHA-1 hash namespace.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8353"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8264"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ## <kbd>class</kbd> `AttrRegisterMap`
 A class AttrRegisterMap the attributes register and manages map. 
@@ -5606,7 +5487,7 @@ Methods:  `setattribute`(attribute_name: str, value: Any, attribute_update: bool
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8422"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8333"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `getattribute`
 
@@ -5630,7 +5511,7 @@ Get a named attribute from object.
 
 ---
 
-<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8377"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8288"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 ### <kbd>method</kbd> `setattribute`
 
@@ -5658,5 +5539,151 @@ Sets the named attribute of the object to the specified value.
 **Notes:**
 
 > - `setattribute`: This for set attribute object to the specified value. if attribute exists and attributeis whether (Dict or List or Tuple or Set) and `attribute_update` is True it add a new values to attribute object. 
+
+
+---
+
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8346"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+
+## <kbd>class</kbd> `KwargsSignature`
+A class KwargsSignature the signature provides to keyword, for allows access to keyword by a attributes. 
+
+Methods:  `callback_object(callback: Callable)`:   The Execute the provided callback function with the signature of stored attributes keyword. 
+
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8353"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+
+### <kbd>method</kbd> `__init__`
+
+```python
+__init__(kwargs: Dict)
+```
+
+Initialize the KwargsSignature object. 
+
+
+
+**Args:**
+ 
+ - <b>``kwargs` (Dict)`</b>:  A dictionary containing the keyword arguments to set attributes, and signature. 
+
+
+
+**Returns:**
+ None 
+
+
+
+**Example:**
+ ```python
+    # DESC => Create a dictionary with keyword arguments.
+    kwargs_signature = {
+         "control": "signature",
+         "name": "dictionary",
+         "target": 10101010,
+         "boolen": True,
+    }
+
+    # DESC => Create an instance of the KwargsSignature class.
+    kwargs_signature = KwargsSignature(kwargs_signature)
+
+    # DESC => To access the values as attributes.
+    print(kwargs_signature.control) # Output => signature
+    print(kwargs_signature.name) # Output => dictionary
+
+    # DESC => To define a callback function to handle the event etc.
+    def handle_event(event):
+         print("Event arguments:", event.target, event.boolen)
+    
+
+    # DESC => Call the object method with the callback function
+    kwargs_signature.callback_object(handle_event)
+    # Output => Event arguments: 10101010 True
+``` 
+
+
+
+
+---
+
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8391"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+
+### <kbd>method</kbd> `callback_object`
+
+```python
+callback_object(callback: Callable) → None
+```
+
+Execute the provided callback function with the signature of stored attributes keyword. 
+
+
+
+**Args:**
+ 
+ - <b>``callback` (Callable)`</b>:  The callback function to be executed. such as a function, a method, or a lambda expression. 
+
+
+
+**Raises:**
+ 
+ - <b>`TypeError`</b>:  If the provided callback is not callable (i.e., not a function or a lambda expression). 
+
+
+
+**Returns:**
+ None 
+
+
+
+**Notes:**
+
+> - The `callback_object` method checks if the provided callback is callable (i.e., a function or a lambda expression) and then calls it with the stored keyword arguments. If the callback is not callable, an exception is raised. 
+
+
+---
+
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8417"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+
+## <kbd>class</kbd> `ColorMaterialUi`
+A class ColorMaterialUi - The Material UI color names to hex values. 
+
+Methods:  `to_color_hex(color_name: str)`: Get material ui of color hex values. 
+
+
+
+
+---
+
+<a href="https://github.com/MrYassinox/utils-contrib/blob/main\utils_contrib\modules\utils.py#L8423"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
+
+### <kbd>method</kbd> `to_color_hex`
+
+```python
+to_color_hex(color_name: str)
+```
+
+The get material ui of color hex values. 
+
+
+
+**Args:**
+ 
+ - <b>``color_name` (str)`</b>:  The color name, including accent variants, for which the hex value is required. 
+
+
+
+**Returns:**
+ 
+ - <b>`(str or None)`</b>:  The hex value of the specified color name,   if found. Returns None if the color name is not recognized in the predefined. 
+
+
+
+**Example:**
+ ```python
+    print(ColorMaterialUi.get_material_color_hex("red"))            # Output: '#F44336'
+    print(ColorMaterialUi.get_material_color_hex("redaccent100"))   # Output: '#FF8A80'
+
+    print(ColorMaterialUi.red)                                      # Output: '#F44336'
+    print(ColorMaterialUi.redaccent100)                             # Output: '#FF8A80'
+``` 
 
 
