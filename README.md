@@ -1,5 +1,6 @@
 <div align="center">
-
+This repository has been archived. (No new updates). Please visit and use the new repository.
+  
 # utils contrib
 [![GitHub license](https://img.shields.io/github/license/MrYassinox/utils-contrib?color=blue)](./LICENSE)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/MrYassinox/utils-contrib/main?color=success&style=flat)
